@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator.Tests", "AreaCalculator.Tests\AreaCalculator.Tests.csproj", "{CBA38831-3EDA-476C-9F56-CB88EF092AF6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Shape Area Calculator", "Shape Area Calculator.vdproj", "{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Release|x64.ActiveCfg = Release|Any CPU
+		{C2F3F9A1-F129-4357-8AA4-5CDCB2845807}.Release|x86.ActiveCfg = Release|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Release|ARM.ActiveCfg = Release|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Release|x64.ActiveCfg = Release|Any CPU
+		{CBA38831-3EDA-476C-9F56-CB88EF092AF6}.Release|x86.ActiveCfg = Release|Any CPU
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Debug|Any CPU.ActiveCfg = Debug
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Debug|ARM.ActiveCfg = Debug
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Debug|x64.ActiveCfg = Debug
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Debug|x86.ActiveCfg = Debug
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Release|Any CPU.ActiveCfg = Release
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Release|ARM.ActiveCfg = Release
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Release|x64.ActiveCfg = Release
+		{423B1AC4-A25D-41C9-B8B7-320CA72DCBF5}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
