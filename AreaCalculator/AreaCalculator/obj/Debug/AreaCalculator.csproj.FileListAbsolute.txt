@@ -1,0 +1,6 @@
+c:\users\kurtis\documents\visual studio 2013\Projects\CP330_AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+c:\users\kurtis\documents\visual studio 2013\Projects\CP330_AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe
+c:\users\kurtis\documents\visual studio 2013\Projects\CP330_AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+c:\users\kurtis\documents\visual studio 2013\Projects\CP330_AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.exe
+c:\users\kurtis\documents\visual studio 2013\Projects\CP330_AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb
+C:\Users\Kurtis\documents\visual studio 2013\Projects\CP330_AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csprojResolveAssemblyReference.cache
