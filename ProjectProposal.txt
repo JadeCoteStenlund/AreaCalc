@@ -2,15 +2,19 @@ Project Proposal
 
 1. Short project description
 This software is designed to get the area for a variety of different shapes. A list of available shapes will be displayed and entering the associated number will bring up a few fields to be filled in as to the dimensions of the shape. The program will then generate the area based on these measurements.
+
 2. Software requirements
-There are only limited software requirements. It requires a windows operating system and windows .net 4.5.1 and will perform on almost any hardware set.
+There are only limited software requirements. It requires a windows operating system and windows .net 4.5.1 and will perform on almost any hardware set. The main feature of the application is its ability to calulate the area of a shape given the dimensions.
+
 3. Baselines
- The tools used by group were Doxygen, Visual studio and GitHub. 
+ The tools used by group GitHub and Visual Studios 2013/2015
+ 
 4. Group member names and roles
 Jade; coding, testing, repository. 
 Kurtis; coding, testing, repository. 
 Ryan; coding, repository. 
 Lucas; coding, repository. 
 Matthew; coding, repository, project proposal.  
+
 5. Potential roadblocks and challenges
-The learning of GitHub was a challenge, getting the website to do exactly what we needed took a little bit of trial and error.
+The learning of GitHub will be a challenge, getting the website to do exactly what we need will take alittle bit of trial and error.
